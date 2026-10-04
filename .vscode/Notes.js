@@ -10,8 +10,10 @@
 
 /*
 
-code runner extention by jun han
-
+Code Runner Extension by Jun Han 
+Live Server Extension by Ritwick Dey. 
+Material Icon Theme by Philipp Kief 
+Open in default browser by peakchen90
 
 Node JS - It's an environment that helps you run Java script on your machine
 it is not there by default we need to get this.
@@ -31,7 +33,7 @@ CFT- chrome for testing --> it is a special browser prepared by google chrome, T
     and fully compatible with playwright, plus it never auto upgrades..
 Nightly - It is customized firefox browser it is very very clode to the real Firefox (Prepared by plawright team)
 
-webkit- it is customized safari browser and and it is very clode to the real -safari
+webkit- it is customized safari browser and and it is very close to the real -safari
 
 you cannot install Safari on a windows machine 
 you can work with webkit browser not only on Mac but even on a windows machine
